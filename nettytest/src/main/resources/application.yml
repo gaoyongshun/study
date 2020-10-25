@@ -1,0 +1,10 @@
+server:
+  port: 8870
+  servlet:
+    context-path: /netty
+spring:
+  application:
+    name: netty-server
+
+netty:
+  port: 8872
